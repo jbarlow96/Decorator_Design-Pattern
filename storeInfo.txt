@@ -1,0 +1,7 @@
+field,value
+city,Nottingham
+street,5200 Campbell Blvd
+state,MD
+zip,21236
+phone,410-931-3107
+storeNumber,1008
